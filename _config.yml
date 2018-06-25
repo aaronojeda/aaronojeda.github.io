@@ -23,6 +23,6 @@ exclude: ['package.json', 'src' , 'node_modules']
 # Project descriptions
 project_AG: <b>American Girl World</b> is a visual novel taking place in the world of American Girl, the popular line of dolls of Mattel.
 project_HempInc: <b>Hemp Inc - Weed & Marijuana Business Game</b> is a simulation game where you start from scratch with the goal of building your own cannabis empire.
-project_S2PEditor: Game engine and GUI for the development of 2D platform games in Windows. Built using C++, SDL and Qt. S2PEditor stands for <b>SDL 2D Platformer Editor</b>.
+project_S2PEditor: Game engine and GUI for the development of 2D platform games in Windows. S2PEditor stands for <b>SDL 2D Platformer Editor</b>.
 project_ThinkB4: My entry for Ludum Dare 39 was <b>Think before you jump</b>, a micro-platformer where jumping costs power. It has four levels and four different endings.
 project_Epione: Co-founder of <b>e-pione</b>, startup with the aim of finding machine learning solutions for the diagnosis of neurological diseases.
